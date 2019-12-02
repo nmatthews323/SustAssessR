@@ -1,0 +1,12 @@
+type,from,to,flow
+main,distillation2,FU,Product
+main,distillation1,distillation2,Product
+main,extractor,distillation1,Product
+main,phAdjustment,extractor,Product
+main,centrifuge,phAdjustment,Product
+main,fermenter,centrifuge,Product
+sup,evaporatorCake,extractor,Cake
+sup,combustor,evaporatorCake,Cake
+sup,evaporatorBiomass,centrifuge,Biomass
+sup,combustor,evaporatorBiomass,Biomass
+sup,combustor,distillation2,Biomass

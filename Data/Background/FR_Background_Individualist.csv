@@ -1,0 +1,52 @@
+Quantity view,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,EthanolFermPlant,SodiumChloride,NitrogenFertiliser,AmmoniumNitrate,AmmoniumSulfate,Urea,Water,NeutralisingAgent,SodiumHydroxide,1-Butanol,SteamGrid,WasteTreatment,CHPPlant,ElectricityGrid,Sugar,Ammonia,Urea,Wastewater,SteamBiomass,ElectricityBiomass,Combustor,WasteTreatment2,Transport
+Quantities,Quantities,Quantities,Quantities,Quantities,0,,,,0,,,,,,,,,,,0,0,0,,,,0,0
+,Ecoinvent,Ecoinvent,Ecoinvent,Ecoinvent,0,,,,0,,,,,,,,,,,0,0,0,,,,0,0
+,Economic quantities,Economic quantities,Economic quantities,Economic quantities,0,,,,0,,,,,,,,,,,0,0,0,,,,0,0
+,Environmental quantities,Environmental quantities,Environmental quantities,Environmental quantities,0,,,,,,,,,,,,,,,0,0,0,,,,0,0
+,,"AADP, TU Berlin","AADP, TU Berlin","AADP, TU Berlin",,,,,,,,,,,,,,,,0,0,0,,,,0,0
+,,CML 2001 - Jan. 2016,CML 2001 - Jan. 2016,CML 2001 - Jan. 2016,,,,,,,,,,,,,,,,,,,,,,,
+,,Earlier versions of methods,Earlier versions of methods,Earlier versions of methods,,,,,,,,,,,,,,,,,,,,,,,
+,,EDIP 2003,EDIP 2003,EDIP 2003,,,,,,,,,,,,,,,,,,,,,,,
+,,EF 1.8,EF 1.8,EF 1.8,,,,,,,,,,,,,,,,,,,,,,,
+,,EPD EN 15804,EPD EN 15804,EPD EN 15804,,,,,,,,,,,,,,,,,,,,,,,
+,,EPS 2015d - Incl impacts from secondary particles,EPS 2015d - Incl impacts from secondary particles,EPS 2015d - Incl impacts from secondary particles,,,,,,,,,,,,,,,,,,,,,,,
+,,EPS 2015dx - Excl impacts from secondary particles,EPS 2015dx - Excl impacts from secondary particles,EPS 2015dx - Excl impacts from secondary particles,,,,,,,,,,,,,,,,,,,,,,,
+,,Impact 2002+,Impact 2002+,Impact 2002+,,,,,,,,,,,,,,,,,,,,,,,
+,,Impacts ILCD/PEF recommendation v1.09,Impacts ILCD/PEF recommendation v1.09,Impacts ILCD/PEF recommendation v1.09,,,,,,,,,,,,,,,,,,,,,,,
+,,IPCC AR5,IPCC AR5,IPCC AR5,,,,,,,,,,,,,,,,,,,,,,,
+,,Land use LANCA v2.3 2016,Land use LANCA v2.3 2016,Land use LANCA v2.3 2016,,,,,,,,,,,,,,,,,,,,,,,
+,,NF EN 15804 Quantities,NF EN 15804 Quantities,NF EN 15804 Quantities,,,,,,,,,,,,,,,,,,,,,,,
+,,Odour,Odour,Odour,,,,,,,,,,,,,,,,,,,,,,,
+,,Primary energy,Primary energy,Primary energy,,,,,,,,,,,,,,,,,,,,,,,
+,,ReCiPe 2016 v1.1,ReCiPe 2016 v1.1,ReCiPe 2016 v1.1,,,,,,,,,,,,,,,,,,,,,,,
+,,,ReCiPe 2016 v1.1 (E),ReCiPe 2016 v1.1 (E),,,,,,,,,,,,,,,,,,,,,,,
+,,,ReCiPe 2016 v1.1 (H),ReCiPe 2016 v1.1 (H),,,,,,,,,,,,,,,,,,,,,,,
+,,,ReCiPe 2016 v1.1 (I),ReCiPe 2016 v1.1 (I),,,,,,,,,,,,,,,,,,,,,,,
+,,,,Climate Change Incl Land Use Change (LUC),,,,,,,,,,,,,,,,,,,,,,,
+,,,,Endpoint (I),,,,,,,,,,,,,,,,,,,,,,,
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Climate change, default, excl biogenic carbon [kg CO2 eq.]",8.07E+06,0.325638132,10.47350072,8.48E+00,2.10E+00,3.75E+00,1.63E-05,1.48E+00,1.57E+00,3.66E+00,1.17E-01,3.99E-02,7.86E-04,0.132336877,0.536328634,2.4,3.75,29.1,0.00277026,0.058775833,0.006324469,0.521,0.139
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Climate change, incl biogenic carbon [kg CO2 eq.]",8.12E+06,0.323565515,10.42733373,8.46E+00,2.10E+00,3.74E+00,1.74E-05,1.48E+00,1.57E+00,3.68E+00,1.17E-01,5.56E-01,7.28E-02,0.13394845,-0.967874889,2.39,3.74,29.1,0.002901694,0.061564416,0.133839177,1.27,0.139
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Fine Particulate Matter Formation [kg PM2.5 eq.],6.69E+03,0.000327983,0.002614818,2.22E-03,1.08E-03,2.53E-03,1.31E-08,1.84E-03,2.06E-03,1.79E-03,3.07E-05,1.58E-05,3.93E-06,3.94E-05,0.000411484,0.00079,0.00253,0.016,4.78E-06,1.01E-04,1.40E-05,1.70E-05,6.44E-05
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Fossil depletion [kg oil eq.],1.32E+06,0.079154888,1.417292432,1.28E+00,5.22E-01,1.32E+00,3.43E-06,3.56E-01,3.85E-01,1.77E+00,2.87E-02,5.67E-03,5.61E-05,0.271443959,0.114948079,0.928,1.32,2.85,0.000680013,0.014427648,0.001325517,0.00703,0.0473
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Freshwater Consumption [m3],68294.78055,0.004333104,0.09766753,7.84E-02,6.73E-03,1.86E-01,0.001787414,0.038552647,4.06E-02,0.112311821,1.57E-04,5.70E-04,2.47E-06,3.42E-03,0.044756519,0.0592,0.186,-0.787,9.99E-06,2.12E-04,3.59E-05,0.00115,3.96E-04
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Freshwater ecotoxicity [kg 1,4 DB eq.]",127367.2975,0.003900432,0.039467337,1.98E-02,1.60E-02,1.43E-02,2.17E-07,1.14E-02,1.23E-02,1.30E-02,1.92E-04,2.53E-03,1.60E-05,3.45E-03,0.003502439,0.005236607,0.014312863,0.231001246,2.58E-05,5.48E-04,0.000160369,0.134377451,6.41E-04
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Freshwater Eutrophication [kg P eq.],5033.129832,0.000201886,0.001688854,8.38E-04,7.99E-04,6.22E-04,4.95E-09,7.01E-04,7.56E-04,8.02E-04,1.56E-05,4.88E-05,2.58E-07,2.34E-05,0.000154234,0.000239376,0.000621949,0.095522266,4.59E-07,9.75E-06,2.64E-06,3.89E-05,1.08E-05
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Human toxicity, cancer [kg 1,4-DB eq.]",8984.779993,0.000229505,0.002493145,1.47E-03,9.46E-04,1.09E-03,9.16E-09,6.86E-04,7.37E-04,6.22E-04,2.20E-05,4.61E-05,4.34E-06,4.71E-05,0.000106003,0.000550839,0.001086733,0.004009518,2.06E-05,4.38E-04,8.56E-06,0.000225006,5.08E-05
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Human toxicity, non-cancer [kg 1,4-DB eq.]",1003208.775,0.020168656,0.235538878,1.26E-01,1.04E-01,8.28E-02,8.41E-07,4.04E-02,4.19E-02,4.79E-02,8.95E-04,6.40E-03,6.96E-05,0.004279688,0.007490924,0.029491912,0.082781191,0.297359709,0.000101636,0.002156386,0.00022143,0.033503813,0.003506925
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Ionizing Radiation [Bq C-60 eq. to air],148067.1195,0.025666174,0.130357618,7.68E-02,4.94E-02,7.31E-02,4.16E-07,1.27E-01,1.43E-01,1.44E-01,1.02E-03,4.33E-04,5.31E-06,0.571205326,0.021177814,0.052958993,0.073089924,1.010407884,4.26E-05,9.05E-04,0.000494896,0.000508801,0.002452204
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Land use [Annual crop eq.·y],832620.9659,1.35E-02,1.56E-01,5.75E-02,7.14E-02,3.76E-02,4.78E-07,3.74E-02,3.59E-02,6.21E-02,5.32E-04,7.74E-04,4.51E-06,3.90E-03,0.548540659,1.29E-02,0.037649336,0.262556915,0.03338168,0.708249756,0.000100926,0.00098756,7.31E-03
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Marine ecotoxicity [kg 1,4-DB eq.]",51199.43216,0.001304997,0.015973083,9.72E-03,5.50E-03,7.50E-03,7.18E-08,3.50E-03,3.75E-03,4.19E-03,1.09E-04,6.45E-04,1.31E-05,8.60E-04,0.001203718,0.004278159,0.00750494,0.059117559,1.68E-05,3.56E-04,5.43E-05,0.032528888,4.14E-04
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Marine Eutrophication [kg N eq.],316.7351786,4.37E-05,2.93E-04,3.50E-04,4.89E-05,1.64E-04,1.28E-09,7.63E-05,7.55E-05,5.89E-05,1.19E-06,1.22E-05,8.93E-09,1.24E-05,0.001177242,4.78E-05,1.64E-04,0.196756892,7.40E-08,1.57E-06,1.79E-07,1.13E-05,1.28E-06
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Metal depletion [kg Cu eq.],173839.1961,0.002045135,0.03275946,1.38E-02,1.29E-02,8.19E-03,1.87E-07,2.72E-03,2.72E-03,3.11E-03,1.99E-05,1.10E-04,3.88E-06,0.000159155,0.001162129,0.003196776,0.008190052,0.025970001,8.60E-06,1.82E-04,1.18E-05,0.00011817,0.00018204
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Photochemical Ozone Formation, Ecosystems [kg NOx eq.]",219097.5057,7.15E-03,9.28E-02,5.22E-02,2.94E-02,2.49E-02,4.10E-06,1.35E-02,1.15E-02,1.68E-02,1.82E-04,1.30E+00,7.22E-05,4.67E-04,3.16E-02,9.07E-03,0.02488268,0.19591309,9.08E-05,1.93E-03,1.43E-04,2.801700592,1.23E-03
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Photochemical Ozone Formation, Human Health [kg NOx eq.]",143468.9793,0.004745211,0.065045777,3.83E-02,1.95E-02,1.71E-02,2.55E-06,9.50E-03,8.33E-03,1.25E-02,1.68E-04,8.08E-01,6.77E-05,3.63E-04,2.02E-02,0.00646893,0.017135653,0.138566933,8.22E-05,1.74E-03,1.30E-04,1.738446046,1.02E-03
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Stratospheric Ozone Depletion [kg CFC-11 eq.],1.412160165,8.32E-08,1.44E-04,1.33E-04,5.19E-07,9.88E-07,3.16E-12,1.29E-06,1.48E-06,6.47E-07,2.07E-08,3.71E-07,1.43E-08,8.41E-08,3.55E-06,9.65E-07,9.88E-07,2.95E-05,1.52E-08,3.22E-07,2.14E-08,3.44E-07,4.31E-08
+,,,,ReCiPe 2016 v1.1 Midpoint (I) - Terrestrial Acidification [kg SO2 eq.],41428.61286,0.001487671,0.037022804,2.91E-02,1.01E-02,2.03E-02,4.67E-08,6.07E-03,6.01E-03,1.13E-02,3.83E-04,1.50E-04,4.96E-05,0.000390188,0.009998096,0.006193446,0.020272315,0.091013421,5.53E-05,1.17E-03,6.37E-05,0.000187884,0.00044685
+,,,,"ReCiPe 2016 v1.1 Midpoint (I) - Terrestrial ecotoxicity [kg 1,4-DB eq.]",57313167.57,0.986368551,15.47252152,1.01E+01,4.11E+00,7.61E+00,4.07E-05,1.67E+00,1.67E+00,1.75E+00,2.18E-01,3.82E-02,2.86E-02,0.157760347,0.414421355,4.646370427,7.610131159,10.49887016,0.032237526,0.683974544,0.049761994,0.124431312,1.040016674
+,,TRACI 2.1,TRACI 2.1,TRACI 2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,UBP 2013,UBP 2013,UBP 2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,USEtox 2.1,USEtox 2.1,USEtox 2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Water,Water,Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,SoFi quantities,SoFi quantities,SoFi quantities,SoFi quantities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Technical quantities,Technical quantities,Technical quantities,Technical quantities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

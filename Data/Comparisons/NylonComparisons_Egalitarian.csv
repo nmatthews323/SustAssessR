@@ -1,0 +1,52 @@
+Quantity view,,,,,,,,,,,,
+,,,,,AdipicAcid_RoW,Nylon66_RoW,HMDA_DE,HMDA_Glo,Nylon6_RoW,SebacicAcid_BestCaseCN,SebacicAcid_WorstCaseCN,SebacicAcid_average
+Quantities,Quantities,Quantities,Quantities,Quantities,,,,,,,,
+,Ecoinvent,Ecoinvent,Ecoinvent,Ecoinvent,,,,,,,,
+,Economic quantities,Economic quantities,Economic quantities,Economic quantities,,,,,,,,
+,Environmental quantities,Environmental quantities,Environmental quantities,Environmental quantities,,,,,,,,
+,,"AADP, TU Berlin","AADP, TU Berlin","AADP, TU Berlin",,,,,,,,
+,,CML 2001 - Jan. 2016,CML 2001 - Jan. 2016,CML 2001 - Jan. 2016,,,,,,,,
+,,Earlier versions of methods,Earlier versions of methods,Earlier versions of methods,,,,,,,,
+,,EDIP 2003,EDIP 2003,EDIP 2003,,,,,,,,
+,,EF 1.8,EF 1.8,EF 1.8,,,,,,,,
+,,EPD EN 15804,EPD EN 15804,EPD EN 15804,,,,,,,,
+,,EPS 2015d - Incl impacts from secondary particles,EPS 2015d - Incl impacts from secondary particles,EPS 2015d - Incl impacts from secondary particles,,,,,,,,
+,,EPS 2015dx - Excl impacts from secondary particles,EPS 2015dx - Excl impacts from secondary particles,EPS 2015dx - Excl impacts from secondary particles,,,,,,,,
+,,Impact 2002+,Impact 2002+,Impact 2002+,,,,,,,,
+,,Impacts ILCD/PEF recommendation v1.09,Impacts ILCD/PEF recommendation v1.09,Impacts ILCD/PEF recommendation v1.09,,,,,,,,
+,,IPCC AR5,IPCC AR5,IPCC AR5,,,,,,,,
+,,Land use LANCA v2.3 2016,Land use LANCA v2.3 2016,Land use LANCA v2.3 2016,,,,,,,,
+,,NF EN 15804 Quantities,NF EN 15804 Quantities,NF EN 15804 Quantities,,,,,,,,
+,,Odour,Odour,Odour,,,,,,,,
+,,Primary energy,Primary energy,Primary energy,,,,,,,,
+,,ReCiPe 2016 v1.1,ReCiPe 2016 v1.1,ReCiPe 2016 v1.1,,,,,,,,
+,,,ReCiPe 2016 v1.1 (E),ReCiPe 2016 v1.1 (E),,,,,,,,
+,,,,Climate Change Incl Land Use Change (LUC),,,,,,,,
+,,,,Endpoint (E),,,,,,,,
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Climate change, default, excl biogenic carbon [kg CO2 eq.]",11,6.86,13.7,4.61,6.44,0.612,2.4,1.506
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Climate change, incl biogenic carbon [kg CO2 eq.]",11,6.88,13.8,4.63,6.45,0.612,2.4,1.506
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Fine Particulate Matter Formation [kg PM2.5 eq.],0.013857661,0.007384951,0.00298,0.006614581,0.00769688,0.00923,0.0157,0.012465
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Fossil depletion [kg oil eq.],2.682756495,2.969176516,5.252568295,2.686971571,2.728188269,0.908687719,1.451094472,1.179891096
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Freshwater Consumption [m3],0.068987533,0.226170573,0.044816906,0.040353785,0.068983664,3.680779994,7.454458001,5.567618998
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Freshwater ecotoxicity [kg 1,4 DB eq.]",0.038893449,0.020142261,0.002098615,0.016716376,0.018912183,0.009095709,0.017945024,0.013520367
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Freshwater Eutrophication [kg P eq.],0.002211806,0.000444222,1.46E-05,0.000669784,0.000214122,0.001644557,0.003319357,0.002481957
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Human toxicity, cancer [kg 1,4-DB eq.]",14.18346863,11.46771344,0.35079422,7.15320879,11.04094728,0.105546528,0.158443317,0.131994923
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Human toxicity, non-cancer [kg 1,4-DB eq.]",1192.006969,117.0318606,108.5373713,345.6220773,123.5732556,106.9768718,205.8049503,156.3909111
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Ionizing Radiation [Bq C-60 eq. to air],0.358086975,0.001146399,0.152972959,0.173622184,0.002188964,0.079500794,0.123210687,0.101355741
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Land use [Annual crop eq.·y],0.130400756,0.00070976,7.77E-02,0.037038826,0.00119254,9.270625253,18.77070842,14.02066684
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Marine ecotoxicity [kg 1,4-DB eq.]",74.86584804,37.59396606,12.03525625,49.70194217,37.38267909,118.6405656,231.0697402,174.8551529
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Marine Eutrophication [kg N eq.],0.00017333,0.002585416,0.00015032,0.001184598,0.000823371,0.011143048,0.022557966,0.016850507
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Metal depletion [kg Cu eq.],0.009331371,0.000336202,0.016828741,0.002878672,0.000242504,0.000904673,0.002194764,0.001549719
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Photochemical Ozone Formation, Ecosystems [kg NOx eq.]",0.037775221,0.018511569,4.722973486,0.017564284,0.026511081,2.339192949,3.859769026,3.099480988
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Photochemical Ozone Formation, Human Health [kg NOx eq.]",0.028699166,0.016641676,2.935354604,0.013596388,0.023536331,1.456903249,2.403564207,1.930233728
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Stratospheric Ozone Depletion [kg CFC-11 eq.],0.001087284,1.25E-05,8.18E-05,1.21E-06,1.46E-04,3.82E-05,7.69E-05,0.00005755
+,,,,ReCiPe 2016 v1.1 Midpoint (E) - Terrestrial Acidification [kg SO2 eq.],0.030819086,0.024107616,9.66E-03,0.018597317,0.023798915,0.04225655,0.076645063,0.059450807
+,,,,"ReCiPe 2016 v1.1 Midpoint (E) - Terrestrial ecotoxicity [kg 1,4-DB eq.]",11.68863199,0.227842281,7.73E+01,4.758807804,0.366269687,4.852200341,7.253664341,6.052932341
+,,,ReCiPe 2016 v1.1 (H),ReCiPe 2016 v1.1 (H),0,0,0.00E+00,0,0,0,0,
+,,,ReCiPe 2016 v1.1 (I),ReCiPe 2016 v1.1 (I),0,0,0,0,0,0,0,
+,,TRACI 2.1,TRACI 2.1,TRACI 2.1,0,0,0,0,0,0,0,
+,,UBP 2013,UBP 2013,UBP 2013,0,0,0,0,0,0,0,
+,,USEtox 2.1,USEtox 2.1,USEtox 2.1,0,0,0,0,0,0,0,
+,,Water,Water,Water,0,0,0,0,0,0,0,
+,SoFi quantities,SoFi quantities,SoFi quantities,SoFi quantities,0,0,0,0,0,0,0,
+,Technical quantities,Technical quantities,Technical quantities,Technical quantities,0,0,0,0,0,,,

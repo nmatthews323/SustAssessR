@@ -1,0 +1,33 @@
+Name,Country,Midpoint,Endpoint,unit,Individualist,Hierarchist,Egalitarian
+Global Warming - Human health,Glo,"Climate change, default, excl biogenic carbon",Human health,DALY/kg CO2 eq.,8.12E-08,9.28E-07,1.25E-05
+Stratospheric ozone depletion - Human health,Glo,Stratospheric Ozone Depletion,Human health,DALY/kg CFC11 eq.,2.37E-04,5.31E-04,1.34E-03
+Ionzing Radiation - Human health,Glo,Ionizing Radiation,Human health,DALY/kBq Co-60 emitted to air eq.,6.80E-09,8.50E-09,1.40E-08
+Fine particulate matter formation - Human health,Glo,Fine Particulate Matter Formation,Human health,DALY/kg PM2.5 eq.,6.29E-04,6.29E-04,6.29E-04
+Photochemical ozone formation - Human health,Glo,"Photochemical Ozone Formation, Human Health",Human health,DALY/kg NOx eq.,9.10E-07,9.10E-07,9.10E-07
+Toxicity - Human health (cancer),Glo,"Human toxicity, cancer",Human health,"DALY/kg 1,4-DCB emitted to urban air eq.",3.32E-06,3.32E-06,3.32E-06
+Toxicity - Human health (non-cancer),Glo,"Human toxicity, non-cancer",Human health,"DALY/kg 1,4-DCB emitted to urban air eq.",2.28E-07,2.28E-07,2.28E-07
+Water consumption - human health,Glo,Freshwater Consumption,Human health,Daly/m3 consumed,3.10E-06,2.22E-06,2.22E-06
+Global Warming - Terrestrial ecosystems,Glo,"Climate change, default, excl biogenic carbon",Terrestrial ecosystems,Species.year/kg CO2 eq.,5.32E-10,2.80E-09,2.50E-08
+Photochemical ozone formation - Terrestrial ecosystems,Glo,"Photochemical Ozone Formation, Ecosystems",Terrestrial ecosystems,Species.year/kg NOx eq.,1.29E-07,1.29E-07,1.29E-07
+Acidification - Terrestrial ecosystems,Glo,Terrestrial Acidification,Terrestrial ecosystems,Species.year/kg SO2 eq.,2.12E-07,2.12E-07,2.12E-07
+Toxicity - Terrestrial ecosystems,Glo,Terrestrial ecotoxicity,Terrestrial ecosystems,"species*yr/kg 1,4-DBC emitted to industrial soil eq.",1.14E-11,1.14E-11,1.14E-11
+Water consumption - terrestrial ecosystems,Glo,Freshwater Consumption,Terrestrial ecosystems,species.yr/m3 consumed,0.00E+00,1.35E-08,1.35E-08
+Land use - occupation and transformation,Glo,Land use,Terrestrial ecosystems,Species/(m2?annual crop eq),8.88E-09,8.88E-09,8.88E-09
+Global Warming - Freshwater ecosystems,Glo,"Climate change, default, excl biogenic carbon",Freshwater ecosystems,Species.year/kg CO2 eq.,1.45E-14,7.65E-14,6.82E-13
+Eutrophication - Freshwater ecosystems,Glo,Freshwater Eutrophication,Freshwater ecosystems,Species.year/kg P to freshwater eq.,6.71E-07,6.71E-07,6.71E-07
+Toxicity - Freshwater ecosystems,Glo,Freshwater ecotoxicity,Freshwater ecosystems,"species?yr/kg 1,4-DBC emitted to freshwater eq.",6.95E-10,6.95E-10,6.95E-10
+Water consumption -aquatic ecosystems,Glo,Freshwater Consumption,Freshwater ecosystems,species.yr/m3 consumed,6.04E-13,6.04E-13,6.04E-13
+Toxicity - Marine ecosystems,Glo,Marine ecotoxicity,Marine ecosystems,"species?yr/kg 1,4-DBC emitted to sea water eq.",1.05E-10,1.05E-10,1.05E-10
+Eutrophication - Marine ecosystems,Glo,Marine Eutrophication,Marine ecosystems,Species.year/kg N to marine water eq.,1.70E-09,1.70E-09,1.70E-09
+Water consumption - human health,BR,Freshwater Consumption,Human health,Daly/m3 consumed,3.73E-08,3.73E-08,6.96E-08
+Water consumption - terrestrial ecosystems,BR,Freshwater Consumption,Terrestrial ecosystems,species.yr/m3 consumed,0,2.07E-09,2.07E-09
+Water consumption -aquatic ecosystems,BR,Freshwater Consumption,Freshwater ecosystems,species.yr/m3 consumed,2.39E-12,2.39E-12,2.39E-12
+Water consumption - human health,US,Freshwater Consumption,Human health,Daly/m3 consumed,9.80E-07,9.80E-07,1.62E-06
+Water consumption - terrestrial ecosystems,US,Freshwater Consumption,Terrestrial ecosystems,species.yr/m3 consumed,0,5.20E-09,5.20E-09
+Water consumption -aquatic ecosystems,US,Freshwater Consumption,Freshwater ecosystems,species.yr/m3 consumed,2.90E-12,2.90E-12,2.90E-12
+Water consumption - human health,FR,Freshwater Consumption,Human health,Daly/m3 consumed,9.49E-08,9.49E-08,1.32E-07
+Water consumption - terrestrial ecosystems,FR,Freshwater Consumption,Terrestrial ecosystems,species.yr/m3 consumed,0,2.43E-09,2.43E-09
+Water consumption -aquatic ecosystems,FR,Freshwater Consumption,Freshwater ecosystems,species.yr/m3 consumed,1.40E-13,1.40E-13,1.40E-13
+Water consumption - human health,USLigno,Freshwater Consumption,Human health,Daly/m3 consumed,9.80E-07,9.80E-07,1.62E-06
+Water consumption - terrestrial ecosystems,USLigno,Freshwater Consumption,Terrestrial ecosystems,species.yr/m3 consumed,0,5.20E-09,5.20E-09
+Water consumption -aquatic ecosystems,USLigno,Freshwater Consumption,Freshwater ecosystems,species.yr/m3 consumed,2.90E-12,2.90E-12,2.90E-12
